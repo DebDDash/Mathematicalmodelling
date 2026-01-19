@@ -27,7 +27,10 @@
 
 ```text
 .
-├── a1q1.m
-├── a1q2.m
-├── a1q3.m
+├── A1.pdf - Has the assignment questions
+├── a1q1.m - Solution of 1st question
+├── a1q2.m - Solution of 2nd question
+├── a1q3.m - Solution of 3rd question
+├── Report.pdf - Has solution of questions which involved mathematical proofs
 └── README.md
+
